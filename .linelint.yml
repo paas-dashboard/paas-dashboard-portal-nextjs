@@ -1,0 +1,12 @@
+autofix: false
+
+ignore:
+  - .git/
+  - .idea/
+  - "**.json"
+  - "**.svg"
+
+rules:
+  end-of-file:
+    enable: true
+    single-new-line: true
